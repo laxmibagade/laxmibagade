@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working on **Wordpress and Django**
-- 🌱 I’m currently learning **Flutter Frameworks 👨‍💻**
+- 🌱 I’m currently learning **Flutter Frameworks 👩‍💻**
 
 <img align="right" alt="Coding" width="300" hight="300" border="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J6amQwZjA1bXE3M2M2ZjZ2ejBhYjhnb3FvY3UwdXlsaW1uNmYwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
@@ -12,6 +12,7 @@
 - Dart 🧿
 - Firebase 🔥
 - Python 🐍
+- WordPress 🖥
 
 - 📫 How to reach me **laxmibagade2017@gmail.com**
 
